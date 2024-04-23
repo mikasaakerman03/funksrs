@@ -9,5 +9,5 @@ def to_lower_case(text):
 str1 = "Пример Текста Для Обработки"
 
 result = map(to_lower_case(remove_spaces, str1))
-
+#hhhhjkhgfsdfghghj
 print(list(result))
