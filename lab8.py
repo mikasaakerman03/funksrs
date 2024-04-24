@@ -20,7 +20,7 @@ def analyze_log_entries(log_entries: List[str]) -> Dict[str, int]:
     return analysis_result
 
 # Пример использования функций
-#Hello WorlD
+#dilnaz
 log_file_path = 'C:/Users/mikas/Microsoft/Power BI Desktop Store App/WebView2/EBWebView/Default/Local Storage/leveldb/000003.log'
 log_entries = read_log_file(log_file_path)
 filtered_entries = filter_log_entries(log_entries, 'app')
