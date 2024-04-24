@@ -1,2 +1,0 @@
-# funksrs
-labki
